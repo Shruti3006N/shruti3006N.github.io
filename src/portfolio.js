@@ -23,10 +23,9 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: 'https://github.com/yug33',
-  linkedin: 'https://www.linkedin.com/in/rathod-yogesh/',
-  gmail: 'yrathod33@gmail.com',
-  medium: 'https://medium.com/@yogesh.rathod_13072',
+  github: 'https://github.com/Shruti3006N',
+  linkedin: 'https://www.linkedin.com/in/shruti-namdeo/',
+  gmail: 'namdeo.shruti3006@gmail.com',
   display: true, // Set true to display this section, defaults to false
 };
 
@@ -50,24 +49,8 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: 'reactjs',
+      skillName: 'javascript',
       fontAwesomeClassname: 'fab fa-react',
-    },
-    {
-      skillName: 'Vuejs',
-      fontAwesomeClassname: 'fab fa-vuejs',
-    },
-    {
-      skillName: 'Angular',
-      fontAwesomeClassname: 'fab fa-angular',
-    },
-    {
-      skillName: 'nodejs',
-      fontAwesomeClassname: 'fab fa-node',
-    },
-    {
-      skillName: 'npm',
-      fontAwesomeClassname: 'fab fa-npm',
     },
     {
       skillName: 'html-5',
@@ -76,31 +59,6 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: 'css3',
       fontAwesomeClassname: 'fab fa-css3-alt',
-    },
-    {
-      skillName: 'sass',
-      fontAwesomeClassname: 'fab fa-sass',
-    },
-    {
-      skillName: 'JavaScript',
-      fontAwesomeClassname: 'fab fa-js',
-    },
-    
-    {
-      skillName: 'PostgreSQL',
-      fontAwesomeClassname: 'fas fa-database',
-    },
-    {
-      skillName: 'aws',
-      fontAwesomeClassname: 'fab fa-aws',
-    },
-    {
-      skillName: 'python',
-      fontAwesomeClassname: 'fab fa-python',
-    },
-    {
-      skillName: 'java',
-      fontAwesomeClassname: 'fab fa-java',
     },
     {
       skillName: 'python',
@@ -118,8 +76,8 @@ const educationInfo = {
     {
       schoolName: 'Pune Institute of Computer Technology',
       logo: require('./assets/images/Pict_logo.png'),
-      subHeader: 'Bachelor of Engineering in Computer Science',
-      duration: 'September 2013 - May 2019',
+      subHeader: 'Bachelor of Science in Computer Science',
+      duration: 'July 2017 - Sept 2020',
     }
   ],
 };
@@ -135,11 +93,11 @@ const techStack = {
     },
     {
       Stack: 'Backend',
-      progressPercentage: '70%',
+      progressPercentage: '50%',
     },
     {
       Stack: 'Programming',
-      progressPercentage: '60%',
+      progressPercentage: '50%',
     },
   ],
   displayCodersrank: false, // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -152,9 +110,9 @@ const workExperiences = {
   experience: [
     {
       role: 'Full Stack developer',
-      company: 'Redpanda / Launchventures ',
+      company: 'Upgrad ',
       companylogo: require('./assets/images/lv.jpg'),
-      date: 'July 2019 – Aug 2020',
+      date: 'Nov 2020 – April 2021',
       // desc:
       //   'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
       // descBullets: [
@@ -310,8 +268,8 @@ const contactInfo = {
   title: emoji('Contact Me ☎️'),
   subtitle:
     'Discuss a project or just want to say hi? My Inbox is open for all.',
-  number: '+91-8698482662',
-  emailAddress: 'yrathod33@gmail.com',
+  number: '+91-9302895853',
+  emailAddress: 'namdeo.shruti3006@gmail.com',
 };
 
 // Twitter Section
